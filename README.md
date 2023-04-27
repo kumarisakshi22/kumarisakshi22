@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Sakshi 
-- 👀 I’m interested in development 
-- 🌱 I’m currently learning at noida institute of engineering and technology,greater noida with data science branch 
+- 👀 I’m interested in web development development as well as data science and machine learning.
+- 🌱 I’m currently purusing Btech from noida institute of engineering and technology,greater noida with data science branch 
 - 
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞
 
 <!---
 kumarisakshi22/kumarisakshi22 is a ✨ special ✨ repository because its `README.md` (this file) appearsn✡ on your GitHub profile.
